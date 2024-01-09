@@ -1,0 +1,24 @@
+LCSeqTools (CLI) v$VERSION is under GNU GPLv3.0
+Documentation and source code available at https://github.com/marcusnizalvarez/LCSeqTools
+If you would like more information, please contact me at marcus.alvarez@unesp.br
+
+Usage example:
+ $ ./LCSeqTools.sh --out output/ --fasta ref.fasta --id-file samples.csv --config config.txt
+
+Required parameters:
+ --fasta             Uncompressed FASTA reference
+ --out               Output folder. Must be and existing folder
+ --sample-sheet      Sample identification file (comma-separated values, no quotes)
+
+Opitional parameters:
+ --config            Set workflow parameters using the configuration file
+ --verbose           Activate verbose mode
+ --threads           Number of threads [Default=$MAX_CPU]
+ --no-imput          Disable imputation module
+ --haploid-seqs      Set haploid sequences from FASTA reference (text file, one seq-ID per line)
+ --ignored-seqs      Set ignored sequences from FASTA reference (text file, one seq-ID per line)
+ --ignore-filename   Ignore if filename Mate/Lane does not match with sample-sheet header
+ --appdir            Set the the appimage custom path
+
+Other:
+ --help              Show this help message

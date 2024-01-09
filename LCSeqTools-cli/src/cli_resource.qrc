@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bash/align_fastq.sh</file>
+        <file>bash/build_index.sh</file>
+        <file>bash/imputation.sh</file>
+        <file>bash/variant_call.sh</file>
+        <file>bash/vcf_filter.sh</file>
+        <file>bash/statistics.sh</file>
+        <file>etc/help.txt</file>
+        <file>etc/default_config.txt</file>
+    </qresource>
+</RCC>

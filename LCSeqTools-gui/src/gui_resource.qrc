@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>etc/checked.png</file>
+        <file>etc/icon.png</file>
+        <file>etc/loader.gif</file>
+        <file>etc/splash.png</file>
+        <file>etc/warning.png</file>
+        <file>etc/missing.png</file>
+        <file>etc/timer.png</file>
+        <file>etc/error.png</file>
+        <file>bash/fastqc.sh</file>
+    </qresource>
+</RCC>
