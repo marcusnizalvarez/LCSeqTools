@@ -23,9 +23,8 @@ That's it! You can now use LCSeqTools on your Linux system.
 5. Click on **Set FASTA Reference** and choose the mapping reference FASTA file.
 6. (Optional) After importing the reference FASTA, click on **Edit > Set Reference Ploidy** to set the correct ploidy of the reference sequences.
 7. Click on **Add Sample(s) > Auto-detect** and select a directory that contains FASTQ sequencing files.
-8. (Optional) If there are resequenced samples, select those in the Sample Viewer and click on Edit > Mark Selected As Resequencing.
-9. Click on **Start**.
-10. After all steps are finished successfully, check the results located in the Output Folder.
+8. Click on **Start**.
+9. After all steps are finished successfully, check the results located in the Output Folder.
 
 # Compiling from source
 
