@@ -15,7 +15,6 @@ That's it! You can now use LCSeqTools on your Linux system.
 
 # Quick Start Guide
 
-
 1. Execute LCSeqTools.
 2. Click on **File > New Project…**.
 3. Click on **Set Output Folder** and choose a directory where the results will be outputted.
@@ -25,6 +24,10 @@ That's it! You can now use LCSeqTools on your Linux system.
 7. Click on **Add Sample(s) > Auto-detect** and select a directory that contains FASTQ sequencing files.
 8. Click on **Start**.
 9. After all steps are finished successfully, check the results located in the Output Folder.
+
+# User Guide
+
+User Guide available [here](https://github.com/marcusnizalvarez/LCSeqTools/blob/master/docs/LCSeqTools-user-guide.pdf), just right-click and select **save link as...**
 
 # Compiling from source
 
