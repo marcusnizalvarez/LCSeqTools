@@ -27,7 +27,7 @@ That's it! You can now use LCSeqTools on your Linux system.
 
 # User Guide
 
-User Guide available [here](https://github.com/marcusnizalvarez/LCSeqTools/blob/master/docs/LCSeqTools-user-guide.pdf), just right-click and select **save link as...**
+User Guide available [here](https://github.com/marcusnizalvarez/LCSeqTools/blob/master/docs/LCSeqTools-user-guide.pdf).
 
 # Compiling from source
 
