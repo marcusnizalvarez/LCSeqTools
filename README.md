@@ -13,6 +13,16 @@ LCSeqTools is distributed as an AppImage file, which means you can run it on any
 
 That's it! You can now use LCSeqTools on your Linux system.
 
+## How to fix AppImage compatibility issue on Ubuntu 22.04 or higher
+
+Ubuntu 22.04 will no longer ship with the libfuse2 package by default. This package is needed for running applications distributed as AppImage files, which are self-contained executable files that can run on various Linux distributions. You can follow the steps below to install libfuse2. Open a terminal window and enter the following command:
+
+```
+sudo add-apt-repository universe
+sudo apt update
+sudo apt install libfuse2
+```
+
 # Quick Start Guide
 
 1. Execute LCSeqTools.
