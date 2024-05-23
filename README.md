@@ -68,7 +68,7 @@ If you are compiling from source, make sure that the external tools are installe
 
 If you use LCSeqTools in your research, please cite the following paper: 
 
-*  Not available yet...
+*  Alvarez MVN. LCSeqTools v0.1.0-alpha. 2024. Zenodo. https://doi.org/10.5281/zenodo.11267121
 
 You should also cite all the external tools that are incorporated in the LCSeqTools workflow, especially [LCVCFtools](https://github.com/marcusnizalvarez/LCVCFtools) as following:
 
