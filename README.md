@@ -68,16 +68,16 @@ If you are compiling from source, make sure that the external tools are installe
 
 If you use LCSeqTools in your research, please cite the following paper: 
 
-*  ALVAREZ, Marcus V.N. [LCSeqTools v0.1.0](https://doi.org/10.5281/zenodo.11267121). 2024.
+*  ALVAREZ, MVN. [LCSeqTools v0.1.0](https://doi.org/10.5281/zenodo.11267121). 2024.
 
 You should also cite all the external tools that are incorporated in the LCSeqTools workflow as following:
 
-* ANDREWS, Simon et al. [FastQC: a quality control tool for high throughput sequence data](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/). 2010.
-* ALVAREZ, Marcus V.N. [LCVCFtools v1.0.2‑alpha](https://doi.org/10.5281/zenodo.5259931). 2022.
-* BROWNING, Brian L.; BROWNING, Sharon R. Genotype imputation with millions of reference samples. **The American Journal of Human Genetics**, v. 98, n. 1, p. 116-126, 2016.
-* BOLGER, Anthony M.; LOHSE, Marc; USADEL, Bjoern. Trimmomatic: a flexible trimmer for Illumina sequence data. **Bioinformatics**, v. 30, n. 15, p. 2114-2120, 2014.
-* LI, Heng; DURBIN, Richard. Fast and accurate short read alignment with Burrows–Wheeler transform. **bioinformatics**, v. 25, n. 14, p. 1754-1760, 2009.
-* LI, Heng. A statistical framework for SNP calling, mutation discovery, association mapping and population genetical parameter estimation from sequencing data. **Bioinformatics**, v. 27, n. 21, p. 2987-2993, 2011.
+* ANDREWS, S; et al. [FastQC: a quality control tool for high throughput sequence data](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/). 2010.
+* ALVAREZ, MVN. [LCVCFtools v1.0.2‑alpha](https://doi.org/10.5281/zenodo.5259931). 2022.
+* BROWNING, BL; BROWNING, SR. Genotype imputation with millions of reference samples. **The American Journal of Human Genetics**, v. 98, n. 1, p. 116-126, 2016.
+* BOLGER, AM; LOHSE, M; USADEL, B. Trimmomatic: a flexible trimmer for Illumina sequence data. **Bioinformatics**, v. 30, n. 15, p. 2114-2120, 2014.
+* LI, H; DURBIN, R. Fast and accurate short read alignment with Burrows–Wheeler transform. **bioinformatics**, v. 25, n. 14, p. 1754-1760, 2009.
+* LI, H. A statistical framework for SNP calling, mutation discovery, association mapping and population genetical parameter estimation from sequencing data. **Bioinformatics**, v. 27, n. 21, p. 2987-2993, 2011.
 
 # Contact
 
