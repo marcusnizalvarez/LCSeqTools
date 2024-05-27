@@ -68,7 +68,7 @@ If you are compiling from source, make sure that the external tools are installe
 
 If you use LCSeqTools in your research, please cite the following paper: 
 
-*  Alvarez MVN. [LCSeqTools v0.1.0 Zenodo](https://doi.org/10.5281/zenodo.11267121). 2024.
+*  ALVAREZ, Marcus V.N. [LCSeqTools v0.1.0](https://doi.org/10.5281/zenodo.11267121). 2024.
 
 You should also cite all the external tools that are incorporated in the LCSeqTools workflow as following:
 
